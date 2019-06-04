@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OmNews</string>
+    <string name="connection">Error in Internet connection...!!!</string>
+</resources>
