@@ -5,7 +5,7 @@ public class Constant {
     public static final String BASE_URL = "http://brotherforlife.in/youtube_admin/";
     public static final String BANNER_DATA = "api/banner.php";
     //public static final String LIST_API = "youtube/v3/search?part=snippet&channelId=UCcmpeVbSSQlZRvHfdC-CRwg&maxResults=25&key=AIzaSyDo1PhoE8cNp2rH6VL7YCWCWz7801YZ4Hs";
-    public static final String LIST_API = "youtube/v3/search?part=snippet&channelId=UCuua4iafV54GTzwLhcQaTaw&maxResults=100&key=AIzaSyDo1PhoE8cNp2rH6VL7YCWCWz7801YZ4Hs";
+    public static final String LIST_API = "youtube/v3/search?part=snippet&channelId=UCuua4iafV54GTzwLhcQaTaw&maxResults=25&key=AIzaSyDo1PhoE8cNp2rH6VL7YCWCWz7801YZ4Hs";
     public static final String LOGIN_API = "api/user-login.php";
 
     //constant values
